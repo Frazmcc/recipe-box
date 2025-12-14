@@ -193,5 +193,48 @@
       "Slow cook alternative: Combine all ingredients (except parsley/salt). Cook 8\u20139 hours on Low or 5\u20136 on High. Shred hough, season, and finish as above."
     ],
     "notes": "Traditional Scottish red lentil soup with a smoked ham hough. Dual-mode recipe."
+  },
+    {
+    "id": "no-knead-overnight-focaccia",
+    "title": "No-Knead Overnight Focaccia",
+    "type": "Bread",
+    "subtype": "Overnight No-Knead (Tray Bake)",
+    "tags": [
+      "focaccia",
+      "bread",
+      "no-knead",
+      "overnight",
+      "olive-oil",
+      "cold-ferment-option",
+      "rosemary"
+    ],
+    "servings": 8,
+    "yield_litres": null,
+    "time": {
+      "prep_minutes": 10,
+      "cook_minutes": 26,
+      "total_minutes": 960
+    },
+    "ingredients": [
+      { "qty": "500 g", "item": "Strong white bread flour" },
+      { "qty": "400 ml", "item": "Cool water (18–20 °C)" },
+      { "qty": "1 g (≈ 1/4 tsp)", "item": "Dried yeast" },
+      { "qty": "10 g", "item": "Fine salt" },
+      { "qty": "40 ml", "item": "Extra virgin olive oil (in dough)" },
+      { "qty": "3–4 tbsp", "item": "Extra virgin olive oil (tray + topping)" },
+      { "qty": "to taste", "item": "Flaky sea salt" },
+      { "qty": "optional", "item": "Fresh rosemary" }
+    ],
+    "directions": [
+      "Day 1 (Evening) — Mix: In a large bowl, stir water + yeast to dissolve. Add flour, salt, and 40 ml olive oil. Mix until no dry flour remains (do not knead). Cover tightly.",
+      "Overnight ferment (Room temp 18–21 °C): Leave 12–16 hours until dough is doubled/tripled, bubbly on top, and jiggly when you shake the bowl. (If not ready, leave longer.)",
+      "Day 2 — Tray: Generously oil a metal tray (approx. 23×33 cm). Pour dough in gently (do not punch down). With oiled fingers, coax toward corners. If it resists, rest 10 minutes and continue.",
+      "Final proof: Cover loosely and rest 45–90 minutes until puffy and airy.",
+      "Oven: Preheat to 220 °C conventional (200 °C fan).",
+      "Dimple + top: Oil your fingers and press deep dimples all over down to the tray. Drizzle olive oil so it pools in dimples. Add flaky salt and rosemary (optional).",
+      "Bake: Bake 22–28 minutes until deep golden on top and crisp underneath. Remove from tray immediately. Optional: brush with a little more olive oil while hot. Cool 10–15 minutes before slicing.",
+      "Cold ferment option (24–72h): After mixing, rest 2 hours at room temp, then refrigerate covered 24–72 hours. Remove from fridge ~90 minutes before tray transfer, then continue from the Tray step. (Ferment by cues: bubbly, airy, jiggly.)"
+    ],
+    "notes": "Designed for repeatability: weigh ingredients, use cool water, ferment by visual cues not the clock, never knead or punch down, and oil the tray generously for the crisp base. Total_minutes is set to 960 (16h) as a typical overnight baseline; adjust by fermentation cues. Yield: 1 tray focaccia."
   }
 ]
